@@ -11,7 +11,7 @@ function accessElementInArray() {
 }    
 
 function addElementToBeginningOfArray() {
-  var chocolateBars[5]=5 
+  var
 }
 
 function destructivelyAddElementToBeginningOfArray() {
