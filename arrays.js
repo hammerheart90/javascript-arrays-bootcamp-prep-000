@@ -16,7 +16,10 @@ function addElementToBeginningOfArray() {
  
 }
 
-
+function addElementToBeginningOfArray (array, element) {
+ 
+  return ['milkyWay', ...chocolateBars]
+}
 
 function destructivelyAddElementToBeginningOfArray(chocolateBars, 0) {
    var chocolateBars= ['snickers', 'hundred grand', 'kitkat', 'skittles'];
