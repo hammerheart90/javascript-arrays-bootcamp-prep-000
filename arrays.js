@@ -14,9 +14,11 @@ function addElementToBeginningOfArray() {
 
 }
 
-//function destructivelyAddElementToBeginningOfArray() {
-  //chocolateBars.push("milkyWay");
-//}
+function destructivelyAddElementToBeginningOfArray() {
+   var chocolateBars= ['snickers', 'hundred grand', 'kitkat', 'skittles'];
+ 
+chocolateBars=['milkyWay',...chocolateBars];
+}
 
 function addElementToEndOfArray() {
   
