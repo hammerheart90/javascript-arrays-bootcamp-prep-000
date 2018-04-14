@@ -14,7 +14,7 @@ function addElementToBeginningOfArray() {
 
 }
 
-function destructivelyAddElementToBeginningOfArray() {
+function destructivelyAddElementToBeginningOfArray(chocolateBars, 0) {
    var chocolateBars= ['snickers', 'hundred grand', 'kitkat', 'skittles'];
  
 chocolateBars=['milkyWay',...chocolateBars];
