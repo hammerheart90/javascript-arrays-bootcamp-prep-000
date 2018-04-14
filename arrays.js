@@ -24,11 +24,11 @@ var chocolateBars= [
   
     
 function accessElementInArray() {
-  console.log(chocolateBarss[0])
+  console.log(chocolateBars[0])
 }    
 
 function addElementToBeginningOfArray() {
-  var grilledCheeseIngredients
+  var chocolateBars
 }
 
 function destructivelyAddElementToBeginningOfArray() {
