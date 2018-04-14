@@ -10,13 +10,13 @@ function accessElementInArray() {
   console.log(chocolateBars[0])
 }    
 
-//function addElementToBeginningOfArray() {
- // var
-//}
+function addElementToBeginningOfArray() {
+ var
+}
 
-//function destructivelyAddElementToBeginningOfArray() {
-  //var chocolateBars= 
-//}
+function destructivelyAddElementToBeginningOfArray() {
+  var chocolateBars= 
+}
 
 function addElementToEndOfArray() {
   
