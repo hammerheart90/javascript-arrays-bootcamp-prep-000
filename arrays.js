@@ -13,7 +13,7 @@ function accessElementInArray() {
 function addElementToBeginningOfArray() {
  var chocolateBars= ['snickers', 'hundred grand', 'kitkat', 'skittles'];
  
-cholcateBars=['milkyWay',...chocolateBars];
+chocolateBars=['milkyWay',...chocolateBars];
 }
 
 //function destructivelyAddElementToBeginningOfArray() {
