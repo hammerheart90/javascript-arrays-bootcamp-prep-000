@@ -16,6 +16,7 @@ var tomatoSauceIngredients = [
   'oregano'
   ]
     
+function accessElementInArray() {    
 function addElementToBeginningOfArray() {
   var grilledCheeseIngredients
 }
