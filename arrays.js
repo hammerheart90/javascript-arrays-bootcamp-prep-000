@@ -11,7 +11,7 @@ function accessElementInArray() {
 }    
 
 function addElementToBeginningOfArray() {
- chocolateBars.push(milkyWay);
+ chocolateBars.push('milkyWay');
   
 }
 
