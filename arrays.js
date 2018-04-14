@@ -32,7 +32,7 @@ function addElementToBeginningOfArray() {
 }
 
 function destructivelyAddElementToBeginningOfArray() {
-  
+  var chocolateBars= 
 }
 
 function addElementToEndOfArray() {
