@@ -1,20 +1,3 @@
-var 
-grilledCheeseIngredients = [
-  'bread',
-  'mild cheese',
-  'sharp cheese',
-  'butter',
-  'tomato',
-  'garlic',
-  ];
-
-var tomatoSauceIngredients = 
-[ 'tomato',
-  'garlic',
-  'olive oil',
-  'basil',
-  'oregano' ];
-
 var chocolateBars= [
   'snickers',
   'hundred grand',
@@ -28,7 +11,7 @@ function accessElementInArray() {
 }    
 
 function addElementToBeginningOfArray() {
-  var chocolateBars= 
+  var chocolateBars[5]=5 
 }
 
 function destructivelyAddElementToBeginningOfArray() {
