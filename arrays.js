@@ -8,19 +8,18 @@ grilledCheeseIngredients = [
   'garlic'
   ]
 
-var tomatoSauceIngredients = [
-  'tomato'
-  'garlic'
-  'olive oil'
-  'basil'
-  'oregano'
-  ];
+var tomatoSauceIngredients = 
+[ 'tomato',
+  'garlic',
+  'olive oil',
+  'basil',
+  'oregano' ];
 
 var chocolateBars= [
-  "snickers"
-  "hundred grand"
-  "kitkat"
-  "skittles"
+  "snickers",
+  "hundred grand",
+  "kitkat",
+  "skittles",
   ]  ;
   
     
