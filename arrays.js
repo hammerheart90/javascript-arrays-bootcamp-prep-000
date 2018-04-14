@@ -16,4 +16,6 @@ var tomatoSauceIngredients = [
   'oregano'
   ]
     
-function removeElementFromEndOfArray 
+function removeElementFromEndOfArray() {
+  
+}
