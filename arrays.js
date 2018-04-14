@@ -11,12 +11,12 @@ function accessElementInArray() {
 }    
 
 function addElementToBeginningOfArray() {
- chocolateBars.push("milkyWay");
+
   
 }
 
 function destructivelyAddElementToBeginningOfArray() {
-  var chocolateBars= 
+  chocolateBars.push("milkyWay");
 }
 
 function addElementToEndOfArray() {
