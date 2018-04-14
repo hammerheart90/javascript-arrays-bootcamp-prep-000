@@ -24,6 +24,14 @@ function destructivelyAddElementToBeginningOfArray() {
   
 }
 
+function addElementToEndOfArray() {
+  
+}
+
+function destructivelyAddElementToEndOfArray() {
+  
+}
+
 
 function removeElementFromEndOfArray() {
   
