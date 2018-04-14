@@ -14,13 +14,14 @@ var tomatoSauceIngredients = [
   'olive oil'
   'basil'
   'oregano'
-  ]
+  ];
 
 var chocolateBars= [
   "snickers"
   "hundred grand"
   "kitkat"
-  "skittles"]  
+  "skittles"
+  ]  ;
   
     
 function accessElementInArray() {
