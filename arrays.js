@@ -11,7 +11,9 @@ function accessElementInArray() {
 }    
 
 function addElementToBeginningOfArray() {
-
+{
+   var newChocolateBars= ['snickers', 'hundred grand', 'kitkat', 'skittles'];
+ 
 }
 
 function destructivelyAddElementToBeginningOfArray(chocolateBars, 0) {
