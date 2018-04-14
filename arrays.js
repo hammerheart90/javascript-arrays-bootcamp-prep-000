@@ -11,9 +11,7 @@ function accessElementInArray() {
 }    
 
 function addElementToBeginningOfArray() {
- var chocolateBars= ['snickers', 'hundred grand', 'kitkat', 'skittles'];
- 
-chocolateBars=['milkyWay',...chocolateBars];
+
 }
 
 //function destructivelyAddElementToBeginningOfArray() {
