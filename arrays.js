@@ -15,9 +15,16 @@ var tomatoSauceIngredients = [
   'basil'
   'oregano'
   ]
+
+var chocolateBars= [
+  'snickers'
+  'hundred grand'
+  'kitkat'
+  'skittles']  
+  
     
 function accessElementInArray() {
-  console.log(tomatoSauceIngredients[0])
+  console.log(chocolateBarss[0])
 }    
 
 function addElementToBeginningOfArray() {
