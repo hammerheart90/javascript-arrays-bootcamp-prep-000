@@ -7,19 +7,19 @@ var chocolateBars= [
   
     
 function accessElementInArray() {
-  console.log(chocolateBars[0])
+  console.log(chocolateBars[0]);
 }    
 
 function addElementToBeginningOfArray() {
- var chocolateBars= ['snickers', 'hundred grand', 'kitkat', 'skittles']
+ var chocolateBars= ['snickers', 'hundred grand', 'kitkat', 'skittles'];
  
-['milkyWay',...chocolateBars]
+['milkyWay',...chocolateBars];
   chocolateBars
 }
 
-function destructivelyAddElementToBeginningOfArray() {
-  chocolateBars.push("milkyWay");
-}
+//function destructivelyAddElementToBeginningOfArray() {
+  //chocolateBars.push("milkyWay");
+//}
 
 function addElementToEndOfArray() {
   
